@@ -1,0 +1,23 @@
+# Binaries and extensions
+*.exe
+*.dll
+*.zds
+*.DEH
+*.pk3
+*.rtf
+*.dbs
+*.backup*
+*.bak
+*.ini
+*.wad*
+*.txt
+*.zip
+
+# Must include
+!Disturbance.wad
+!README.md
+
+# Folders
+/Backup
+/GZDoom Builder
+/soundfonts
